@@ -1,2 +1,2 @@
 # README.md
-HW Assignment 1
+HW Assignment
