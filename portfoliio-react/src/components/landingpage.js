@@ -15,7 +15,7 @@ class Landing extends Component {
                         <div className="banner-text">
                             <h1>Backend Web Developer</h1>
                             <hr />
-                            <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | MongoDB |Express</p>
+                            <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | MongoDB | Express</p>
                             <div className="social-links">
                                 <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-linkedin-square" aria-hidden="true"/>
