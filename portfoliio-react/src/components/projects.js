@@ -48,40 +48,6 @@ class Projects extends Component {
           <IconButton name="share" />
         </CardMenu>
         </Card>
-        <Card shadow={5} style={{ minWidth: "450", margin: "auto", paddingTop: "5px" }}>
-        <CardTitle
-          style={{
-            color: "#fff",
-            height: "176px",
-            background: "url(https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1521098155260-OD3QNLD1RK7DGPWMCUA6/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/js.jpg?format=2500w) center / cover",
-          }}
-        ></CardTitle>
-        <CardText>Lorem Ipsum</CardText>
-        <CardActions border>
-          <Button href="" colored>Github</Button>
-          <Button href="" colored>Link</Button>
-        </CardActions>
-        <CardMenu style={{ color: "#fff" }}>
-          <IconButton name="share" />
-        </CardMenu>
-            </Card>
-            <Card shadow={5} style={{ minWidth: "450", margin: "auto", paddingTop: "5px" }}>
-          <CardTitle
-            style={{
-              color: "#fff",
-              height: "176px",
-              background: "url(https://www.inovex.de/blog/wp-content/uploads/2022/01/one-year-of-react-native.png) center / cover",
-            }}
-          ></CardTitle>
-          <CardText>Food banks have responded to increased demand by serving clients through drive-up mobile sites: people who need food can drive to a particular location, where workers and volunteers will load bagged groceries into their backseats or trunks.</CardText>
-          <CardActions border>
-            <Button href="https://github.com/rmcmahon91/Food-Bank-Analysis" colored>Github</Button>
-            <Button href= "https://food-bank-project.herokuapp.com/" colored>Link</Button>
-          </CardActions>
-          <CardMenu style={{ color: "#fff" }}>
-            <IconButton name="share" />
-          </CardMenu>
-        </Card>      
       </div>
       );
     } else if (this.state.activeTab === 2) {

@@ -15,12 +15,12 @@ class Landing extends Component {
                         <div className="banner-text">
                             <h1>Backend Web Developer</h1>
                             <hr />
-                            <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | MongoDB | Express</p>
+                            <p>HTML5/CSS | Bootstrap | JavaScript | React | NodeJS | MongoDB | Express</p>
                             <div className="social-links">
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.linkedin.com/in/ryan-mcmahon-741635104/" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-linkedin-square" aria-hidden="true"/>
                                 </a>
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/rmcmahon91" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true"/>
                                 </a>
                                 <a href="http://google.com" rel="noopener noreferrer" target="_blank">
